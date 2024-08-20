@@ -31,7 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamal-kh&" alt="arjunsingh27" /></p>
 
----
 
-Credit: [arjunsingh27](https://github.com/arjunsingh27)
-Last Edited on: 19/01/2024
