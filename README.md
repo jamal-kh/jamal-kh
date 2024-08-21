@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamal-kh&label=Profile%20views&color=0e75b6&style=flat" alt="jamal-kh" /> </p>
 
-- 🌱 I’m currently learning ** Angularjs **
+- 🌱 I’m currently learning ** Typescript **
 
 - 📫 How to reach me **jamalalbeenkhalil@gmail.com**
 
